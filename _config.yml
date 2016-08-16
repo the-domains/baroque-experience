@@ -12,3 +12,7 @@ color:
     - '#547AB1'
     - '#CEAFC0'
 name: Baroque Experience
+navigation:
+  - name: Baroque Experience
+    url: 'http://www.baroque-experience.com'
+    type: external
