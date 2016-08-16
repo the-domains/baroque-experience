@@ -1,4 +1,3 @@
-layout_spectrum: 0.40166097274050117
 typography_spectrum: 0.15106646995991468
 color:
   brandStrength: 0.7585841584950686
@@ -11,6 +10,9 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.40166097274050117
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eba6ab3f-ac2f-4113-b129-4d1e9ebadec5.png
 name: Baroque Experience
 navigation:
   - name: Baroque Experience
